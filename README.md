@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on [pix (a version control system for images)](https://github.com/vatsal-afk/pix)
 
-- 🌱 I’m currently exploring **bash, linux and nginx**
-
 - 👨‍💻 All of my projects are available at [https://github.com/vatsal-afk](https://github.com/vatsal-afk)
-
-- 📝 I regularly write articles on [https://medium.com/@vatsal31415](https://medium.com/@vatsal31415)
 
 - 📫 How to reach me **vatsal31415@gmail.com**
 
