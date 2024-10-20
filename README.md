@@ -2,9 +2,6 @@
 <h3 align="center">Undergraduate student at IIT Roorkee and a passionate developer.</h3>
 
 <p align="center">
-  <a href="https://github.com/vatsal-afk/pix">
-    <img src="https://img.shields.io/badge/-Currently_Working_On:_pix-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Currently Working On pix">
-  </a>
   <a href="https://github.com/vatsal-afk">
     <img src="https://img.shields.io/badge/-My_Projects-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="My Projects">
   </a>
