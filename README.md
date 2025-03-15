@@ -128,7 +128,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/vatsal-afk/vatsal-afk/github-contribution-grid-snake-dark.svg)
-  
+  <img src="https://github.com/vatsal-afk/vatsal-afk/blob/main/github-user-contribution.svg" alt="GitHub User Contribution Graph">
 </div>
