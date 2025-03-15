@@ -10,11 +10,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on a [math engine](https://github.com/vatsal-afk/math-engine)
+<!-- - 🔭 I'm currently working on a [math engine](https://github.com/vatsal-afk/math-engine -->
 - 🌱 I'm currently learning **OpenGL, Computer Graphics**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/vatsal-afk/theVirtualPengui9)
 - 📝 I regularly write articles on [Medium](https://medium.com/@virtualPengui9)
-- 💬 Discuss with me about **Full Stack Web development**
 - 📫 Reach me at **vatsal31415@gmail.com**
 
 <!--<img src="https://raw.githubusercontent.com/vatsal-afk/vatsal-afk/main/assets/borderseperator.gif">-->
