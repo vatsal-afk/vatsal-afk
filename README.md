@@ -122,7 +122,3 @@
 <!-- 📝 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-  <img src="https://github.com/vatsal-afk/vatsal-afk/blob/main/github-user-contribution.svg" alt="GitHub User Contribution Graph">
-</div>
