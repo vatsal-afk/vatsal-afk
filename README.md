@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 <!-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/vatsal-afk/theVirtualPengui9) -->
-- 🔭 I'm currently working on a [Procedural Graphics Rendering Engine](https://github.com/vatsal-afk/aethereal)  
+- 🔭 I'm currently working on a [Procedural Graphics Rendering Engine](https://github.com/vatsal-afk/Aethereal)  
 - 🌱 Exploring **AI Agents** and **LangChain**
 - 📝 I regularly write articles on [Medium](https://medium.com/@virtualPengui9)
 - 🔗 Check out my portfolio: [virtualPengui9.dev](https://virtual-pengui9.vercel.app/)  
