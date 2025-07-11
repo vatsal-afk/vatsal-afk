@@ -1,23 +1,26 @@
 <div align="center">
   
-# 💻 Vatsal Agarwal
+# 👨‍💻 Vatsal Agarwal
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;;Sophomore+at+IIT+Roorkee)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;;Junior+at+IIT+Roorkee)](https://git.io/typing-svg)-->
 
 <!--<img src="https://raw.githubusercontent.com/vatsal-afk/vatsal-afk/main/assets/borderseperator.gif">-->
 
 </div>
 
 ## 🚀 About Me
-
-<!-- - 🔭 I'm currently working on a [math engine](https://github.com/vatsal-afk/math-engine -->
-- 🌱 I'm currently learning **OpenGL, Computer Graphics**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/vatsal-afk/theVirtualPengui9)
+<!-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/vatsal-afk/theVirtualPengui9) -->
+- 🔭 I'm currently working on a [Procedural Graphics Rendering Engine](https://github.com/vatsal-afk/aethereal)  
+- 🌱 Exploring **AI Agents** and **LangChain**
 - 📝 I regularly write articles on [Medium](https://medium.com/@virtualPengui9)
-- 📫 Reach me at **vatsal31415@gmail.com**
+- 🔗 Check out my portfolio: [virtualPengui9.dev](https://virtual-pengui9.vercel.app/)  
+- 🤝 Connect with me on [LinkedIn](https://linkedin.com/in/vatsal-agarwal-b67315280)  
+- 🐦 Follow me on [X](https://twitter.com/virtualpengui9)
+- 📫 Reach me at **vatsal31415@gmail.com**  
 
 <!--<img src="https://raw.githubusercontent.com/vatsal-afk/vatsal-afk/main/assets/borderseperator.gif">-->
 
+<!--
 ## 🔗 Connect with me
 
 <div align="center">
@@ -34,6 +37,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
 </div>
+-->
 
 <!--<img src="https://raw.githubusercontent.com/vatsal-afk/vatsal-afk/main/assets/borderseperator.gif">-->
 
@@ -107,16 +111,17 @@
 
 <!--<img src="https://raw.githubusercontent.com/vatsal-afk/vatsal-afk/main/assets/borderseperator.gif">-->
 
-## 📊 GitHub Stats
-
+<!--
+## 📊 GitHub Stats-->
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vatsal-afk&show_icons=true&theme=chartreuse-dark&bg_color=000000&hide_border=true&count_private=true" alt="vatsal-afk's GitHub stats" />
 </div>
-
+-->
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsal-afk&layout=compact&theme=chartreuse-dark&bg_color=000000&hide_border=true" alt="Top Languages" />
-</div>
-
+</div>-->
 <!--<img src="https://raw.githubusercontent.com/vatsal-afk/vatsal-afk/main/assets/borderseperator.gif">-->
 
 <!-- 📝 Latest Blog Posts -->
