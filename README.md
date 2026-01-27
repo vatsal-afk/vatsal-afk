@@ -12,7 +12,6 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@virtualPengui9)
 - 🤝 Connect with me on [LinkedIn](https://linkedin.com/in/vatsal-agarwal-b67315280)  
 - 🐦 Follow me on [X](https://twitter.com/virtualpengui9)
-- 📫 Reach me at **vatsal31415@gmail.com**  
 
 <!--<img src="https://raw.githubusercontent.com/vatsal-afk/vatsal-afk/main/assets/borderseperator.gif">-->
 
