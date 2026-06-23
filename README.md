@@ -1,6 +1,4 @@
 <div align="center">
-  
-# 👨‍💻 Vatsal Agarwal
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;;Junior+at+IIT+Roorkee)](https://git.io/typing-svg)-->
 
@@ -12,6 +10,10 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@virtualPengui9)
 - 🤝 Connect with me on [LinkedIn](https://linkedin.com/in/vatsal-agarwal-b67315280)  
 - 🐦 Follow me on [X](https://twitter.com/virtualpengui9)
+  
+### 🤝 Collaboration
+
+Building **Chople**, where I serve as **Co-Founder & CTO**, alongside **Shaurya Singhal (Co-Founder & CEO)**, a core collaborator and major contributor across several projects showcased on this profile. Together, we work on AI systems, distributed infrastructure, product engineering, and civic intelligence technologies aimed at making public information more structured, searchable, and trustworthy.
 
 <!--<img src="https://raw.githubusercontent.com/vatsal-afk/vatsal-afk/main/assets/borderseperator.gif">-->
 
